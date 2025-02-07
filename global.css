@@ -1,0 +1,59 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+
+:root {
+    
+    /* fonts */
+    --font-inter: Inter;
+    --body-txt-body-xs: Poppins;
+    --h4: Intro;
+    --font-potta-one: 'Potta One';
+    
+    /* font sizes */
+    --font-size-xl: 20px;
+    --body-txt-body-s-size: 16px;
+    --body-txt-body-xs-size: 14px;
+    --h4-size: 18px;
+    --font-size-13xl: 32px;
+    --font-size-5xl: 24px;
+    --font-size-29xl: 48px;
+    --font-size-21xl: 40px;
+    --font-size-6xl: 25px;
+    
+    /* Colors */
+    --miscellaneous-sidebar-fill-selected: #fff;
+    --corporate-purple: #9d3fe7;
+    --color-gray-100: #88808d;
+    --color-gray-200: #060513;
+    --color-orange: #ffa629;
+    --grayscale-bg-light-grey: #f5f3f7;
+    --color-peru-100: #e4963d;
+    
+    /* Gaps */
+    --gap-5xs: 8px;
+    --gap-xs: 12px;
+    --gap-39xl: 58px;
+    --gap-mini: 15px;
+    
+    /* Paddings */
+    --padding-xs: 12px;
+    --padding-33xl: 52px;
+    --padding-7xl: 26px;
+    --padding-8xs: 5px;
+    --padding-9xs: 4px;
+    --padding-45xl: 64px;
+    --padding-34xl: 53px;
+    --padding-11xs: 2px;
+    
+    /* Border radiuses */
+    --br-3xs: 10px;
+    --br-11xl: 30px;
+    --br-9xs: 4px;
+    
+    /* Effects */
+    --input-shadow: 0px 4px 5px rgba(33, 1, 38, 0.03) inset;
+}
